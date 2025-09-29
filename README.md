@@ -1,3 +1,5 @@
+**live code run link :** https://workshop---genai-using-geminiapi-iukggeyvuo2dtrz7lqltx3.streamlit.app/
+
 **A simple project to show how to use Google’s Gemini API to generate text, and how to store & fetch data using SQLite.**
 
 What’s in this repository
